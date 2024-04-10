@@ -1,0 +1,2 @@
+# DISCLAIMER
+By using this extension, you are violating Granblue Fantasy [Terms of Service](https://game.granbluefantasy.jp/#termsofuse/0) and [Responses to Violations](https://game.granbluefantasy.jp/#static/infraction). The author of this extension is not liable for any claim, damages or other liability, arising from the use of this extension.
