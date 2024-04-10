@@ -1,0 +1,24 @@
+{
+    "name": "GBF_RaidShare",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Granblue Fantasy Sharing Code",
+    "permissions": [
+      "storage",
+      "scripting",
+      "activeTab"
+    ],
+    "host_permissions": [
+    ],
+    "options_ui": {
+      "page": "option.html",
+      "open_in_tab": false
+    },
+    "background": {
+      "service_worker": "index.js"
+    },
+    "action": {
+
+    }
+  }
+  
